@@ -36,7 +36,7 @@ It features a clean UI, smooth interactions, and full **keyboard support** for a
 
 
 
-https://yousefalhadha.github.io/Calculator/
+https://yousefalhadha.github.io/calculator/
 
 
 ---
